@@ -1,9 +1,5 @@
 # MayfaMamut
-    </I live in the world/>
-    </👨‍💻/>
-    </🖥️/>
-    </💻/>
-    </⌨️/>
-    </🕹️/>
-
+    </>
+    I live in the World
+    
 # MayfaMamut
