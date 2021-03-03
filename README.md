@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Çağan</h1>
 <h3 align="center">Litte Developer</h3>
 
+![giphy](https://user-images.githubusercontent.com/67741183/109847211-fd662800-7c5f-11eb-8716-7f187da917c4.gif)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayfamamut&label=Profile%20views&color=0e75b6&style=flat" alt="mayfamamut" /> </p>
 
 - I am a student of [Faruk Nafiz Çamlıbel High School](https://fnc.meb.k12.tr/)
