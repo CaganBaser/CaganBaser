@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Çağan</h1>
+<h1 align="center">Hi, I'm Çağan</h1>
 <h3 align="center">Litte Developer</h3>
 
 ![giphy](https://user-images.githubusercontent.com/67741183/109847211-fd662800-7c5f-11eb-8716-7f187da917c4.gif)
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/channel/UCf9mwtOnRAccOR9mAc3iBIQ" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://www.youtube.com/channel/ucf9mwtonraccor9mac3ibiq" height="30" width="40" /></a> <a href="https://www.reddit.com/user/mAyfamamut06" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg" alt="https://www.youtube.com/channel/ucf9mwtonraccor9mac3ibiq" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCf9mwtOnRAccOR9mAc3iBIQ" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://www.youtube.com/channel/ucf9mwtonraccor9mac3ibiq" height="30" width="40" /></a> <a href="https://www.reddit.com/user/mAyfamamut06" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg" alt="https://www.youtube.com/channel/ucf9mwtonraccor9mac3ibiq" height="30" width="40" /></a>            <a href="caganbaser64@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="https://www.youtube.com/channel/ucf9mwtonraccor9mac3ibiq" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
