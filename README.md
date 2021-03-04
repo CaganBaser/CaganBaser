@@ -1,9 +1,7 @@
 <h1 align="center">Hi, I'm Çağan</h1>
 <h3 align="center">Litte Developer</h3>
 
-![giphy](https://user-images.githubusercontent.com/67741183/109847211-fd662800-7c5f-11eb-8716-7f187da917c4.gif)
-
-![source](https://user-images.githubusercontent.com/67741183/109988444-95bfe380-7d18-11eb-913f-0c7454e856c5.gif)
+![giphy](https://user-images.githubusercontent.com/67741183/109847211-fd662800-7c5f-11eb-8716-7f187da917c4.gif) ![source](https://user-images.githubusercontent.com/67741183/109988444-95bfe380-7d18-11eb-913f-0c7454e856c5.gif)
 
 - I am a student of [Faruk Nafiz Çamlıbel High School](https://fnc.meb.k12.tr/)
 
