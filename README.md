@@ -3,7 +3,7 @@
 
 ![giphy](https://user-images.githubusercontent.com/67741183/109847211-fd662800-7c5f-11eb-8716-7f187da917c4.gif)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mayfamamut&label=Profile%20views&color=0e75b6&style=flat" alt="mayfamamut" /> </p>
+![giphy](https://user-images.githubusercontent.com/67741183/109988256-6ad58f80-7d18-11eb-91e0-6e12583266e4.gif)
 
 - I am a student of [Faruk Nafiz Çamlıbel High School](https://fnc.meb.k12.tr/)
 
