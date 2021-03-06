@@ -7,6 +7,8 @@
 
 - 🐱‍💻 I’m currently learning **c#**
 
+-🇩🇪 I’m currently learning **Deutsch**
+
 - 📝 I regularly write articles on my blog [https://caganbaser.blogspot.com/](https://caganbaser.blogspot.com/)
 
 - 📫 How to reach me **caganbaser64@gmail.com**
