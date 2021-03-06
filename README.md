@@ -5,7 +5,7 @@
 
 - I am a student of [Faruk Nafiz Çamlıbel High School](https://fnc.meb.k12.tr/)
 
-- 🌱 I’m currently learning **c#**
+- 🐱‍💻 I’m currently learning **c#**
 
 - 📝 I regularly write articles on my blog [https://caganbaser.blogspot.com/](https://caganbaser.blogspot.com/)
 
