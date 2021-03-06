@@ -7,7 +7,7 @@
 
 - 🐱‍💻 I’m currently learning **c#**
 
--🇩🇪 I’m currently learning **Deutsch**
+- 🇩🇪 I’m currently learning **Deutsch**
 
 - 📝 I regularly write articles on my blog [https://caganbaser.blogspot.com/](https://caganbaser.blogspot.com/)
 
